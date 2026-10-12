@@ -1,0 +1,14 @@
+{
+  "name": "agents-kit",
+  "description": "Agent-instruction kit for Hainox projects: AGENTS.md templates, /agents-init, reminder hook.",
+  "owner": {
+    "name": "Hainox"
+  },
+  "plugins": [
+    {
+      "name": "agents-kit",
+      "source": "./plugins/agents-kit",
+      "description": "Universal AGENTS.md / CODING_STANDARDS.md templates, /agents-init skill, and a SessionStart reminder for projects without AGENTS.md."
+    }
+  ]
+}
