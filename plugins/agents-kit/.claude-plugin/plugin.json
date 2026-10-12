@@ -1,6 +1,6 @@
 {
   "name": "agents-kit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Universal AGENTS.md / CODING_STANDARDS.md templates, /agents-init skill, and a SessionStart reminder for projects without AGENTS.md.",
   "author": { "name": "Hainox" }
 }
